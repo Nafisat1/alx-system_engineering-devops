@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -p -m 751 /alx-system_engineering-devops/my_dir
+mkdir -m 751 /alx-system_engineering-devops/my_dir
