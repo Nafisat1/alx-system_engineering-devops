@@ -1,1 +1,1 @@
-My script writing project
+My shell restrictions project
