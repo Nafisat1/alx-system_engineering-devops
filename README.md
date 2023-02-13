@@ -1,1 +1,1 @@
-My shell restrictions project
+My shell restrictions
